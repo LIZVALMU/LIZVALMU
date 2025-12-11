@@ -1,119 +1,138 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
   
-# 👋 Hola, soy Alison Geraldine Valderrama Munar
+  <!-- Header animado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alison%20Valderrama&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Systems%20Engineering%20Student&descAlignY=52&descSize=18"/>
 
-**🎓 Estudiante de Ingeniería de Sistemas | 💻 Desarrolladora de Software**
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Transformando+ideas+en+soluciones;que+generan+impacto+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alison-valderrama-munar-397174149/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisvalderrama@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LIZVALMU)
+  <!-- Badges de contacto -->
+  <p>
+    <a href="https://www.linkedin.com/in/alison-valderrama-munar-397174149/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:alisvalderrama@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/LIZVALMU">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=LIZVALMU&label=Visitas%20al%20Perfil&color=6366f1&style=for-the-badge" alt="Profile views" />
 
 </div>
 
+<br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre Mí
+
+```typescript
+const alison = {
+    ubicación: "Colombia 🇨🇴",
+    educación: "Ingeniería de Sistemas - Último Semestre",
+    universidad: "Escuela Colombiana de Ingeniería Julio Garavito",
+    intereses: ["Backend Development", "Cloud Architecture", "Microservices"],
+    tecnologíasActuales: {
+        backend: ["Java 21", "Spring Boot", "Node.js"],
+        frontend: ["React", "TypeScript"],
+        databases: ["PostgreSQL", "MongoDB", "Oracle"],
+        cloud: ["Azure", "AWS"],
+        tools: ["Docker", "Git", "Postman"]
+    },
+    aprendiendo: "Arquitecturas cloud-native y sistemas distribuidos",
+    objetivo: "Crear soluciones tecnológicas escalables e innovadoras"
+};
+```
+
+### 🎯 Mi Enfoque Profesional
+
+- **Especialización:** Desarrollo Backend & Arquitectura de Software
+- **Aprendiendo:** Arquitecturas cloud-native y microservicios
+- **Enfoque:** Construcción de sistemas escalables y mantenibles
+- **Colaboración:** Abierta a proyectos innovadores
+- **Ubicación:** Colombia
+
+<br clear="both"/>
+
 ---
 
-## Sobre Mí
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
-Soy estudiante de **último semestre de Ingeniería de Sistemas** en la **Escuela Colombiana de Ingeniería Julio Garavito** , apasionada por el desarrollo de software y la creación de soluciones tecnológicas innovadoras. Me especializo en el **desarrollo de aplicaciones**, **diseño de bases de datos** y **arquitectura de software**.
-
--  **Especialización:** Desarrollo de Aplicaciones & Arquitectura de Software
--  **Actualmente aprendiendo:** Arquitecturas cloud-native y microservicios
--  **Enfoque:** Desarrollo backend, diseño de arquitectura y construcción de sistemas escalables
--  **Ubicación:** Colombia
-
----
-
-## Stack Tecnológico
-
-### Lenguajes de Programación
-<p align="left">
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<details open>
+<summary><b>Lenguajes de Programación</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&theme=dark&perline=6" />
 </p>
+</details>
 
-### Frameworks y Librerías
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<details open>
+<summary><b>Frameworks & Librerías</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,express&theme=dark&perline=6" />
 </p>
+</details>
 
-### Bases de Datos
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<details open>
+<summary><b>Bases de Datos</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis&theme=dark&perline=6" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
 </p>
+</details>
 
-### Herramientas y Tecnologías
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+<details open>
+<summary><b>Cloud & DevOps</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github&theme=dark&perline=6" />
 </p>
+</details>
 
-### Servicios en la Nube
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+<details open>
+<summary><b>Herramientas de Desarrollo</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma&theme=dark&perline=6" />
 </p>
+</details>
 
 ---
 
-## Áreas de Expertise
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🖥️ Desarrollo Backend</h3>
-      <p>
-        • Spring Boot con Java 21<br>
-        • APIs RESTful<br>
-        • Arquitectura de microservicios
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🗃️ Bases de Datos</h3>
-      <p>
-        • Diseño de esquemas<br>
-        • PostgreSQL & MySQL<br>
-        • Oracle Database<br>
-        • SQL Server<br>
-        • MongoDB (NoSQL)
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🏗️ Arquitectura</h3>
-      <p>
-        • Patrones de diseño<br>
-        • Clean Architecture<br>
-        • Modelado de datos<br>
-        • Documentación técnica
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Estadísticas de GitHub
+## 💼 Áreas de Expertise
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LIZVALMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIZVALMU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+| 🖥️ **Backend Development** | 🗃️ **Bases de Datos** | 🏗️ **Arquitectura** |
+|:--:|:--:|:--:|
+| Spring Boot con Java 21 | Diseño de esquemas | Patrones de diseño |
+| APIs RESTful | PostgreSQL & MySQL | Clean Architecture |
+| Microservicios | Oracle & SQL Server | Modelado de datos |
+| Node.js & Express | MongoDB (NoSQL) | Documentación técnica |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LIZVALMU&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Alison Valderrama github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIZVALMU&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LIZVALMU&theme=tokyonight&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=LIZVALMU&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LIZVALMU&bg_color=0d1117&color=6366f1&line=6366f1&point=6366f1&area=true&hide_border=true" width="90%"/>
 </div>
 
 ---
@@ -122,31 +141,46 @@ Soy estudiante de **último semestre de Ingeniería de Sistemas** en la **Escuel
 
 <div align="center">
 
-### 🏛️ Escuela Colombiana de Ingeniería Julio Garavito
-**Ingeniería de Sistemas** | Último Semestre
+<img src="https://img.shields.io/badge/🏛️_Escuela_Colombiana_de_Ingeniería_Julio_Garavito-1a1b27?style=for-the-badge" />
 
-*Formación integral en desarrollo de software, arquitectura de sistemas y gestión de proyectos tecnológicos*
+### **Ingeniería de Sistemas** 
+📅 *Último Semestre* | 🎯 *Próxima a graduarse*
+
+> *Formación integral en desarrollo de software, arquitectura de sistemas y gestión de proyectos tecnológicos con énfasis en soluciones empresariales.*
 
 </div>
 
 ---
 
-## 🤝 Conectemos
+## 🤝 ¿Trabajamos Juntos?
 
 <div align="center">
 
-### 💼 Abierta a oportunidades de:
-**Desarrollo de Software** | **Proyectos Colaborativos** | **Prácticas Profesionales** | **Consultoría Técnica**
+### 💼 Disponible para:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alison-valderrama-munar-397174149/)
-[![Email](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisvalderrama@gmail.com)
+<p>
+  <img src="https://img.shields.io/badge/🚀_Desarrollo_de_Software-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Proyectos_Colaborativos-6366f1?style=for-the-badge" />
+</p>
+
+<br/>
+
+### 📬 Contáctame
+
+<a href="https://www.linkedin.com/in/alison-valderrama-munar-397174149/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:alisvalderrama@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=LIZVALMU&label=Visitantes&color=0e75b6&style=flat" alt="Profile views" />
-
----
-
-** "Transformando ideas en soluciones tecnológicas que generan impacto" **
-
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+  
 </div>
