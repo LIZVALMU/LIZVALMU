@@ -61,6 +61,12 @@ Soy estudiante de **último semestre de Ingeniería de Sistemas** en la **Escuel
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
+### Servicios en la Nube
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+</p>
+
 ---
 
 ## Áreas de Expertise
