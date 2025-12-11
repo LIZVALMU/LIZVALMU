@@ -19,8 +19,6 @@
     </a>
   </p>
   
-  <img src="https://komarev.com/ghpvc/?username=LIZVALMU&label=Visitas%20al%20Perfil&color=6366f1&style=for-the-badge" alt="Profile views" />
-
 </div>
 
 <br/>
@@ -33,7 +31,6 @@
 Soy estudiante de último semestre de Ingeniería de Sistemas en la Escuela Colombiana de Ingeniería Julio Garavito, apasionada por el desarrollo de software y la creación de soluciones tecnológicas de calidad. Me especializo en el desarrollo de aplicaciones, el diseño de bases de datos y la arquitectura de software, con un enfoque en buenas prácticas y estructuras sólidas.
 
 </p>
-
 <br clear="both"/>
 
 ### 🎯 Mi Enfoque Profesional
