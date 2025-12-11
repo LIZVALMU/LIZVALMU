@@ -5,8 +5,8 @@
 
 **🎓 Estudiante de Ingeniería de Sistemas | 💻 Desarrolladora de Software**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alison-valderrama-munar-397174149/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisvalderrama@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LIZVALMU)
 
 </div>
@@ -73,7 +73,6 @@ Soy estudiante de **último semestre de Ingeniería de Sistemas** en la **Escuel
       <p>
         • Spring Boot con Java 21<br>
         • APIs RESTful<br>
-        • Node.js & Express<br>
         • Arquitectura de microservicios
       </p>
     </td>
@@ -83,6 +82,7 @@ Soy estudiante de **último semestre de Ingeniería de Sistemas** en la **Escuel
         • Diseño de esquemas<br>
         • PostgreSQL & MySQL<br>
         • Oracle Database<br>
+        • SQL Server<br>
         • MongoDB (NoSQL)
       </p>
     </td>
@@ -133,8 +133,8 @@ Soy estudiante de **último semestre de Ingeniería de Sistemas** en la **Escuel
 ### 💼 Abierta a oportunidades de:
 **Desarrollo de Software** | **Proyectos Colaborativos** | **Prácticas Profesionales** | **Consultoría Técnica**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin/)
-[![Email](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alison-valderrama-munar-397174149/)
+[![Email](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisvalderrama@gmail.com)
 
 ---
 
