@@ -27,23 +27,14 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre Mí
 
-```typescript
-const alison = {
-    ubicación: "Colombia 🇨🇴",
-    educación: "Ingeniería de Sistemas - Último Semestre",
-    universidad: "Escuela Colombiana de Ingeniería Julio Garavito",
-    intereses: ["Backend Development", "Cloud Architecture", "Microservices"],
-    tecnologíasActuales: {
-        backend: ["Java 21", "Spring Boot", "Node.js"],
-        frontend: ["React", "TypeScript"],
-        databases: ["PostgreSQL", "MongoDB", "Oracle"],
-        cloud: ["Azure", "AWS"],
-        tools: ["Docker", "Git", "Postman"]
-    },
-    aprendiendo: "Arquitecturas cloud-native y sistemas distribuidos",
-    objetivo: "Crear soluciones tecnológicas escalables e innovadoras"
-};
-```
+
+<p align="left">
+  
+Soy estudiante de último semestre de Ingeniería de Sistemas en la Escuela Colombiana de Ingeniería Julio Garavito, apasionada por el desarrollo de software y la creación de soluciones tecnológicas de calidad. Me especializo en el desarrollo de aplicaciones, el diseño de bases de datos y la arquitectura de software, con un enfoque en buenas prácticas y estructuras sólidas.
+
+</p>
+
+<br clear="both"/>
 
 ### 🎯 Mi Enfoque Profesional
 
